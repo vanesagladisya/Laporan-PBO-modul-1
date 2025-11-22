@@ -13,4 +13,5 @@ dsn2 = Dosen("Lapu Tombilayuk, S.Kom., M.T.", "1120107301")
 
 # Memanggil method
 print(dsn1.ajar_mata_kuliah("PEMROGRAMAN BERORIENTASI OBJEK"))
-print(dsn2.ajar_mata_kuliah("SISTEM OPERASIK"))
+print(dsn2.ajar_mata_kuliah("SISTEM OPERASI"))
+
